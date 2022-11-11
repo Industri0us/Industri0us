@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Industri0us
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on discord: Industri0us#5118
 
